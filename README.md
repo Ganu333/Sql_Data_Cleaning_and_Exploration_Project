@@ -1,5 +1,6 @@
 # Nashvile Housing Data exploration using SQL
-Using Sql to clean Nashville housing data and explore data.
+Using Sql to clean Nashville housing data and explore data.Conducted data cleaning and exploration using SQL, including deduplication, handling missing values, standardizing data formats, removing outliers, and aggregating data using SQL functions.
+Utilized SQL to join and merge multiple datasets to create a comprehensive analysis.
 
 # Following are the observations and task performed on this project :
 
